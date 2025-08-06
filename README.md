@@ -39,7 +39,9 @@ Soy un desarrollador Fullstack colombiano con enfoque en backend. Me especializo
 Aplicación para la gestión de órdenes entre clientes, tiendas y domiciliarios.  
 ✔️ Validaciones reactivas, control de estados, arquitectura hexagonal.
 
-🔗 [Ver repositorio](https://github.com/jgdelgado17/delivery_b.git)
+🔒 *Este repositorio es privado. Puedes escribirme para solicitar acceso o una demo técnica.*
+
+📩 **Contáctame:** Puedes ingresar a mi sitio personal y contactarme
 
 ---
 
@@ -47,8 +49,7 @@ Aplicación para la gestión de órdenes entre clientes, tiendas y domiciliarios
 Sitio web moderno que muestra mi perfil profesional y proyectos destacados.  
 🧩 Desplegado con GitHub + Vercel Pages.
 
-🔗 [Ver sitio](https://gabriel-delgado.vercel.app/)  
-🔗 [Ver código](https://github.com/jgdelgado17/gabriel-delgado.git)
+🔗 [Ver sitio](https://gabriel-delgado.vercel.app/)
 
 ---
 
