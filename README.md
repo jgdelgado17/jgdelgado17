@@ -1,16 +1,67 @@
-## Hi there 👋
+# 👋 ¡Hola, soy Gabriel Delgado Leal!
 
-<!--
-**jgdelgado17/jgdelgado17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Desarrollador Backend | DBA **
 
-Here are some ideas to get you started:
+Soy un desarrollador Fullstack colombiano con enfoque en backend. Me especializo en construir soluciones eficientes, escalables y mantenibles, aplicando buenas prácticas y tecnologías modernas como Java + Spring WebFlux. Disfruto aprender constantemente y aplicar ese conocimiento en proyectos reales que generen impacto.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 **[Portafolio web](https://gabriel-delgado.vercel.app/)**  
+💼 **LinkedIn:** [linkedin.com/in/gabriel-delgado](https://www.linkedin.com/in/jesus-gabriel-delgado-leal/)
+
+---
+
+## 🚀 Tecnologías que utilizo
+
+**Backend**
+- 🟦 Java 17
+- 🌱 Spring Boot (WebFlux, JPA)
+- 🛠️ Arquitectura limpia (Scaffold Bancolombia)
+
+**Bases de datos**
+- 🐘 PostgreSQL
+- 🧠 Modelado relacional avanzado
+
+**Frontend**
+- ⚛️ React
+- 🔐 Auth0 (autenticación)
+- 🎨 Bulma, Axios, React Router
+
+**DevOps / Infraestructura**
+- 🐳 Docker / Podman
+- 🌐 Vercel (deploy frontend)
+- 🔁 Kafka / RabbitMQ (en exploración)
+- 🛠️ Terraform (en progreso)
+
+---
+
+## 📦 Proyectos destacados
+
+### 📦 Sistema de entregas a domicilio (Java + WebFlux)
+Aplicación para la gestión de órdenes entre clientes, tiendas y domiciliarios.  
+✔️ Validaciones reactivas, control de estados, arquitectura hexagonal.
+
+🔗 [Ver repositorio](https://github.com/jgdelgado17/delivery_b.git)
+
+---
+
+### 🌐 Portafolio personal (React + Vercel)
+Sitio web moderno que muestra mi perfil profesional y proyectos destacados.  
+🧩 Desplegado con GitHub + Vercel Pages.
+
+🔗 [Ver sitio](https://gabriel-delgado.vercel.app/)  
+🔗 [Ver código](https://github.com/jgdelgado17/gabriel-delgado.git)
+
+---
+
+## 📊 Estadísticas
+
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=jgdelgado17&show_icons=true&theme=github_dark)
+
+---
+
+## 📌 Lenguajes más usados
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgdelgado17&layout=compact&theme=github_dark)
+
+---
+
+> 💬 ¿Buscas a alguien que combine backend sólido, bases de datos y curiosidad constante por escalar sistemas? ¡Hablemos!
